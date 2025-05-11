@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-27T12:16:28Z" name="Default suite" finished-at="2025-04-27T12:16:29Z" duration-ms="1218">
+    <groups>
+      <group name="smoke">
+        <method signature="NewTest2.f()[pri:0, instance:com.dez.learn.NewTest2@5a5a729f]" name="f" class="com.dez.learn.NewTest2"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-04-27T12:16:28Z" name="Default test" finished-at="2025-04-27T12:16:29Z" duration-ms="1218">
+      <class name="com.dez.learn.NewTest2">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:com.dez.learn.NewTest2@5a5a729f]" started-at="2025-04-27T17:46:24Z" name="beforesuite" finished-at="2025-04-27T17:46:28Z" duration-ms="3562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method signature="f()[pri:0, instance:com.dez.learn.NewTest2@5a5a729f]" started-at="2025-04-27T17:46:28Z" name="f" finished-at="2025-04-27T17:46:29Z" duration-ms="1205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.dez.learn.NewTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
