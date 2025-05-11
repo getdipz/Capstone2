@@ -121,6 +121,7 @@ public class AppTest {
 	public void verify_image_changed() {
 		// (Verification was done in previous step with NotEquals assertion)
 		// Additional checks could be added here if needed.
+		
 
 	}
 
